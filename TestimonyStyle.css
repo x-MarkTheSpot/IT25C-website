@@ -2,7 +2,15 @@ body{
     background-image: url("https://images.hdqwalls.com/download/blade-runner-2049-cyberpunk-alley-4k-mm-2560x1440.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-}h1 {
+
+  }
+  p {
+    color: rgb(255, 255, 255); /* Text color */
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif; /* More common, web-safe font */
+    font-size: 20px; /* Standard font size for body text */
+  }
+  h1 {
     color: rgb(0, 0, 0); /* Text color */
     text-align: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
